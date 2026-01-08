@@ -1,0 +1,7 @@
+{
+  "name": "Inside The Metro",
+  "description": "Your AI-powered guide to discovering events, food, and culture in Houston and beyond. Integrated with Google Maps for real-time recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
